@@ -251,7 +251,7 @@
 				TargetAttributes = {
 					4D22C26E1FC6BFE600DEA1CB = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 33C2BA6L4J;
+						DevelopmentTeam = 8698RUFG5Y;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -505,7 +505,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 33C2BA6L4J;
+				DEVELOPMENT_TEAM = 8698RUFG5Y;
 				INFOPLIST_FILE = iLashCustomer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -523,7 +523,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 33C2BA6L4J;
+				DEVELOPMENT_TEAM = 8698RUFG5Y;
 				INFOPLIST_FILE = iLashCustomer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
